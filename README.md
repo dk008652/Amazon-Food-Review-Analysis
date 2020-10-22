@@ -28,13 +28,13 @@ TF-IDF  =  TF  *  log( IDF )
 
 Method used for classification and corresponding results.
 KNN: finding best performing hyperparameter value(K): Accuracy 85%.
-NB: Hyperparameter(alpha) = Accuracy 87%.
-LR: Hyperparameter(lambda) = Accuracy 92%.
-SVM: Hyperparameter(C = 1 / lambda) = Accuracy 92%.
+NB: Hyperparameter(alpha) = 			      Accuracy 87%.
+LR: Hyperparameter(lambda) = 			      Accuracy 92%.
+SVM: Hyperparameter(C = 1 / lambda) = 		      Accuracy 92%.
 
 Any hyperparameter which gives good results on validation dataset, is used to measure the performance of the model on test data.
 Performance Metrics which were also used along accuracy: F1, Recall, Precision.
-Clone github repository for in depth solution.
+
 
 
 
